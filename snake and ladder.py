@@ -56,6 +56,15 @@ def play_game(players):
                 return
 
 def main():
+    print("--------------------------------------------------------")
+    print("WELCOME TO SNAKES AND LADDDERS!")
+    print("Game Rules:")
+    print(" -The board has 30 squares, numbered from 1 to 30.")
+    print(" -Players take turns rolling a dice and moving forward on the board.")
+    print(" -If a player lands on a snake or a ladder, they will move to the corresponding square.")
+    print(" -The first player to reach the last square wins the game.")
+    print("--------------------------------------------------------")
+
     num_players = int(input("Enter number of players: "))
     players = []
     
