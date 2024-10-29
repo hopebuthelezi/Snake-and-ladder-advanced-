@@ -3,8 +3,8 @@
 Snake and Ladder Game
 Overview
 
-This is a text-based implementation of the classic game Snake and Ladder where players take turns rolling a die and moving on the board. 
-The game includes features like snakes and ladders that affect player movement.  
+This is a text-based implementation of the classic game Snake and Ladder where players take turns rolling a dice and moving on the board. 
+The game includes features like snakes and ladders that affect the players movement.  
 
  Features
 
